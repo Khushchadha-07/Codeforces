@@ -6,7 +6,6 @@ int main()
     scanf("%d %d %d",&k,&n,&w);
     for(int i =1;i<=w;i++)
     {
-        
         total=total+i*k;
     }
     int needed;
